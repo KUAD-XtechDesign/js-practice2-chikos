@@ -1,7 +1,7 @@
 $(function(){
 
     let txt1="公欠！"
-    let tet2="desita!気づいてまいたか!!!???"
+    let txt2="desita!気づいてまいたか!!!???"
     let num1= 21;
     let num2= 55;
 
