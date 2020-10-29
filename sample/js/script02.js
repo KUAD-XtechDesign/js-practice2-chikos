@@ -2,7 +2,7 @@ $(function(){
 
     let hako=0;
 
-    function checkbox(){
+    function checkBox(){
         if(hako>5){
             $("#content").text(hako+ "つです〜。箱はいっぱいいっぱいお腹つらい。ちょっとお手洗い行きます。");
             hako=0;
