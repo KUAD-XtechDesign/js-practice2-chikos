@@ -10,7 +10,7 @@ $(function(){
 
 $("#button02").on("click",function(){
     for(let i=0;i<12;i++){
-    hako=hako+1;
+    hako=hako+i;
     }
     $("#content").text(hako);
 })
