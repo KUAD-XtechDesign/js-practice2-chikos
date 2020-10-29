@@ -22,7 +22,7 @@ $(function(){
   })
 
   $("#button02").on("click",function(){
-      saysometing(txt1);
+      saysomething(txt1);
   })
   $("#button03").on("click",function(){
       samTwo(txt1,txt2)
