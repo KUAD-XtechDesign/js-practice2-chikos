@@ -26,7 +26,7 @@ $(function(){
     })
 
     $("#button03").on("click",function(){
-        hakoa=hako-1;
+        hako=hako-1;
         checkBox()
     })
 })
