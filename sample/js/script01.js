@@ -1,7 +1,7 @@
 $(function(){
 
     let txt1="公欠！"
-    let txt2="desita!気づいてまいたか!!!???"
+    let txt2="desita!気づいてましたか!!!???"
     let num1= 21;
     let num2= 55;
 
@@ -31,7 +31,7 @@ $(function(){
       samTwo(num1,num2)
   })
   $("#button05").on("click",function(){
-      samTwo(txt1,txt2,num1,num2)
-     
+      samTwo(txt1,txt2 ,num2+num1)
   })
+
 })
