@@ -14,14 +14,14 @@ $("#button02").on("click",function(){
     }
     $("#content").text(hako);
 })
-$("button03").on("click",function(){
+$("#button03").on("click",function(){
     setInterval(function(){
         hako=hako+2;
         $("#content").text(hako);
     },1000)
 })
 
-$("button04").on("click",function(){
+$("#button04").on("click",function(){
     hako=0;
     $("#content").text(hako);
 })
