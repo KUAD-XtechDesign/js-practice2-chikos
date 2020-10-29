@@ -9,7 +9,7 @@ $(function(){
       $("#content").text("ハローではない時間です。")
 
   }
-  function saysometing(txt){
+  function saysomething(txt){
       $("#content").text(txt);
 
   }
