@@ -1,7 +1,7 @@
 $(function(){
     let hako=0;
 
-    $("button01").on("click",function(){
+    $("#button01").on("click",function(){
         for(let i=0;i<13;i++){
             hako=hako+5;
         }
